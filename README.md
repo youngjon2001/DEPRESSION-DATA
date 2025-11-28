@@ -30,5 +30,24 @@ The dataset includes:
 - Demographic strata (Age, Sex, Race/Ethnicity, Education, Income)  
 - Year: 2012–2018  
 
-A key metric used throughout the analysis is:
+---
+
+# Tools Used
+
+| Tool | Purpose |
+|------|---------|
+| SQL | Data cleaning, exploration, transformation |
+| Power BI | Data modelling, visualization, dashboard creation |
+| Excel/CSV | Data manipulation |
+| DAX | KPI and calculated measures |
+
+---
+## Project Structure
+
+📦 Depression-Analysis-2012-2018
+┣ 📊 PowerBI-Dashboard.pbix
+┣ 📁 Data
+┃ ┗ depression_data.csv
+┣ 📄 SQL_Queries.sql
+┣ 📄 README.md
 
