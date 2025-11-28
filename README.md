@@ -50,4 +50,53 @@ The dataset includes:
 ┃ ┗ depression_data.csv
 ┣ 📄 SQL_Queries.sql
 ┣ 📄 README.md
+---
+## VISUALIZATION 
+
+# Dashboard 3 — Trend Analysis (2012–2018)
+![VISUALIZATION 1](https://github.com/user-attachments/assets/d85caf76-4da3-40a4-8138-7ecb53336c80)
+### Trend KPIs
+- **Minimum Percent Year:** 2015 (3.97%)  
+- **Maximum Percent Year:** 2017 (33.09%)  
+
+### Observations
+- Depression percent gradually increased from 2012 to 2014.  
+- 2015 shows a temporary decline.  
+- Strong upward spike between 2016 and 2017 (peak year).  
+- Slight decline in 2018.  
+- Frequency trends differ from percent trends, suggesting possible changes in population or reporting.
+
+---
+# Dashboard 2 — Comparison Across Strata
+
+![VISUALIZATION 2](https://github.com/user-attachments/assets/38b1dca0-78ee-453b-926a-8fb0e4d0bd06)
+
+### Findings
+- **Income** contributes the largest portion of depression percent.  
+- **Age** is the second-highest contributor.  
+- Age group **55–64 years** reports the highest depression percent.  
+- **Females** have the highest frequency of depression cases.  
+- **White** individuals also report high frequencies.  
+- Income-based strata show varying patterns across years.
+
+These results indicate strong socioeconomic and demographic influences.
+
+---
+# Dashboard 3 — Distribution & CI Spread Analysis
+
+![VISUALIZATION 1](https://github.com/user-attachments/assets/5e2c99b1-751a-4e80-8d27-b80970d1152b)
+
+### Key KPIs
+- **Max CI Spread:** 23.73  
+- **Min CI Spread:** 1.26  
+- **Strata with Maximum CI Spread:** Other  
+- **Strata with Minimum CI Spread:** Multiple stable demographic groups  
+
+### Insights
+- High CI Spread indicates low certainty or inconsistent data.  
+- Low CI Spread suggests stable, trustworthy values.  
+- The **"Other"** category shows extremely high uncertainty.  
+- Most sex and age groups show small CI spreads, meaning consistent estimation.
+
+
 
