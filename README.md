@@ -121,6 +121,16 @@ These results indicate strong socioeconomic and demographic influences.
 ### Researchers
 - Investigate reasons behind the 2017 spike.  
 - Conduct deeper analysis on gender-based trends.
+  
+---
+  ## Conclusion
+
+This project highlights meaningful patterns in depression data across demographics and time.  
+The insights can support data-driven decisions in public health, and the dashboards offer clear visualization of uncertainty, trends, and demographic patterns.
+
+---
+
+If you find this analysis helpful, feel free to star or fork the repository.
 
 
 
