@@ -98,5 +98,30 @@ These results indicate strong socioeconomic and demographic influences.
 - The **"Other"** category shows extremely high uncertainty.  
 - Most sex and age groups show small CI spreads, meaning consistent estimation.
 
+  ---
+
+# Key Insights Summary
+
+- **Income** and **Age** have the strongest association with depression levels.  
+- Depression is highest among individuals aged **45–64 years**.  
+- **Females** record the highest frequency of cases.  
+- Most demographic groups show **low CI spreads**, meaning consistent data.  
+- The **“Other”** group has the highest uncertainty and may require data review.  
+- 2017 marks the peak year for depression in the dataset.
+
+---
+
+# Recommendations
+
+### Public Health Stakeholders
+- Prioritize interventions for **middle-aged adults (45–64)**.  
+- Address income-related mental-health stressors.  
+- Improve data quality for high-uncertainty groups.
+
+### Researchers
+- Investigate reasons behind the 2017 spike.  
+- Conduct deeper analysis on gender-based trends.
+
+
 
 
